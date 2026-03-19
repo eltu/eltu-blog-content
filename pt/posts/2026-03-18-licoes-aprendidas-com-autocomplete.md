@@ -33,6 +33,7 @@ Considerar categoria atual, navegação recente ou tipo de página ajuda a refin
 Não é necessário um sistema complexo. Sinais simples, como a última categoria visitada, já impactam o ranking.
 
 ## Modelagem e arquitetura
+---
 
 - **Dicionários baseados na linguagem real do usuário são mais eficazes**  
 Termos vindos de logs de busca tornam o sistema mais natural e próximo da intenção real.
