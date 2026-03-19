@@ -13,6 +13,7 @@ permalink: /pt/posts/licoes-aprendidas-com-autocomplete/
 Este post é uma mera coleção de ideias que tive e apliquei ao longo da minha carreira como engenheiro de busca. Serve mais como um registro das decisões tomadas e das lições aprendidas durante essa jornada.
 
 ## Sobre o autocomplete
+---
 
 Autocomplete não é apenas “ajudar a digitar mais rápido”. Ele é um mecanismo de descoberta, direcionamento e conversão. Em muitos casos, é a primeira interação real do usuário com o sistema de busca.
 
@@ -50,6 +51,7 @@ O usuário busca de um jeito, o produto é cadastrado de outro.
 Logs de query devem ser a principal fonte de verdade, com o catálogo como complemento.
 
 ## Ranking e relevância
+---
 
 - **Score de popularidade é um dos sinais mais fortes**  
 Queries frequentes tendem a representar melhor a intenção coletiva.
@@ -61,11 +63,13 @@ Mesmo com suporte a partial match, priorizar prefixo mantém a sensação de dig
 Restringir sugestões à categoria ou ao contexto atual melhora a precisão.
 
 ## Trade-offs técnicos
+---
 
 - **Correção em tempo real é custosa**  
 Pode aumentar latência e custo computacional. Funciona melhor quando aplicada com parcimônia e em momentos específicos.
 
 ## Métricas que realmente importam
+---
 
 - Taxa de uso do autocomplete
 - CTR por posição de sugestão
