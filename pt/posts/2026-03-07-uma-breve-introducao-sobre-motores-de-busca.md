@@ -6,7 +6,7 @@ tags:
   - motores-de-busca
   - indexacao
   - crawler
-permalink: /pt/posts/meu-primeiro-artigo/
+permalink: /pt/posts/uma-breve-introducao-sobre-motores-de-busca/
 ---
 Hoje em dia é comum utilizar motor de busca para pesquisar conteúdo na internet como Google, DuckDuckGo, Bing, Yahoo, dentre outras. Costumamos usá-las sem questionar ou interessar-se em: Como o conteúdo foi parar lá? Como é feita a ordenação do resultado? Como pesquisar de forma simples e eficaz? Como dar a resposta rapidamente ao usuário?
 
