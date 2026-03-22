@@ -79,7 +79,7 @@ Pode aumentar latência e custo computacional. Funciona melhor quando aplicada c
 - Taxa de uso de autocorreção
 - Taxa de conversão a partir do autocomplete
 
-### Boas fontes para consultas
+## Boas fontes para consultas
 ---
 
 - [https://queryunderstanding.com/autocomplete-69ed81bba245](https://queryunderstanding.com/autocomplete-69ed81bba245) — Artigo técnico sobre entendimento de consultas e padrões de autocomplete, com exemplos de logs e análise de intenções.
