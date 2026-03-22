@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: Lições aprendidas com Autocomplete
 date: 2026-03-18
+updated: 2026-03-22
 tags:
   - autocomplete
   - autosuggest
@@ -77,3 +78,7 @@ Pode aumentar latência e custo computacional. Funciona melhor quando aplicada c
 - Taxa de zero resultado originada do autocomplete
 - Taxa de uso de autocorreção
 - Taxa de conversão a partir do autocomplete
+
+### Boas fontes para consultas
+- https://queryunderstanding.com/autocomplete-69ed81bba245 — Artigo técnico sobre entendimento de consultas e padrões de autocomplete, com exemplos de logs e análise de intenções.
+- https://baymard.com/blog/autocomplete-design — Guia prático de UX e design para autocomplete, com recomendações de usabilidade e estudos de caso.
