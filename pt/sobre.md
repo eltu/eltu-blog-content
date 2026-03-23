@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
-title: Sobre
+title: Sobre o blog
 date: 2026-03-22
-permalink: /pt/sobre
+permalink: /pt/sobre/
 ---
 
-## Sobre o Blog
+xyz
